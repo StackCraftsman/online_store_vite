@@ -6,3 +6,11 @@ package-lock.json
 *.p8
 .DS_Store
 *.cer
+node_modules/
+.env
+play.sh
+package-lock.json
+*.pem
+*.p8
+.DS_Store
+*.cer
